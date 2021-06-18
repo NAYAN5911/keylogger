@@ -1,9 +1,6 @@
 # keylogger
 THIS TOOL IS CREATED BY NAYAN ONLY FOR EDUCATIONAL PURPOSE
 
-      """YOU CAN ALSO SUBSCRIBE MY YOUTUBE CHANNEL "THE LEGEND NAYAN "     """
-         
+      YOU CAN ALSO SUBSCRIBE MY YOUTUBE CHANNEL "THE LEGEND NAYAN "         
          """SHOW SOME SUPPORT """"
-           
-           
-           """HOPE U LIKE MY TOOL """
+         """HOPE U LIKE MY TOOL """
